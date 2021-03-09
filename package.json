@@ -19,6 +19,9 @@
   "homepage": "https://github.com/yurialvesbrasil/node-express-tutorial1#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "shortid": "^2.2.16"
+  },
+  "devDependencies": {
     "nodemon": "^2.0.7"
   }
 }
