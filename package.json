@@ -1,0 +1,24 @@
+{
+  "name": "node_express_tutorial",
+  "version": "1.0.0",
+  "description": "https://expressjs.com/pt-br/",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yurialvesbrasil/node-express-tutorial1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yurialvesbrasil/node-express-tutorial1/issues"
+  },
+  "homepage": "https://github.com/yurialvesbrasil/node-express-tutorial1#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
